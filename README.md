@@ -30,6 +30,7 @@ The Joyxoff configs I slightly modified are [virtual keyboard](vk.joyx) and [des
 The only changes are making the default left joystick click
 open the native Windows 11 touch keyboard (tabtip.exe)
 `C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe`
+with the new gamepad layout enabled
 and setting the Joyxoff koyboard to launch with the modifier key
 (left controller face button)
 ```
