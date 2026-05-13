@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs\Controller]
+"ATExe"="Joyxoff.exe"
+"CopySettingsToLockedDesktop"=dword:00000000
+"Description"="Controller"
+"Profile"="<HCIModel><Accommodation type=\"mild dexterity\" /></HCIModel>"
+"SimpleProfile"="controller"
+"StartExe"=hex(2):43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,\
+  20,00,46,00,69,00,6c,00,65,00,73,00,20,00,28,00,78,00,38,00,36,00,29,00,5c,\
+  00,4a,00,6f,00,79,00,78,00,6f,00,66,00,66,00,5c,00,4a,00,6f,00,79,00,78,00,\
+  6f,00,66,00,66,00,2e,00,65,00,78,00,65,00,00,00
+"TerminateOnDesktopSwitch"=dword:00000001
+
