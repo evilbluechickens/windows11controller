@@ -23,7 +23,7 @@ Once Joyxoff is added as an Assitive Technology, it needs to be enabled in the C
 
 Once this is completed and enabled, perform a full restart (shut down and reboot)
 
-The controller SHOULD connect at the lock screen and the left joystick moves the mouse.
+The controller SHOULD connect at the lock screen and the left joystick moves the mouse
 
 The Joyxoff configs I slightly modified are [virtual keyboard](vk.joyx) and [desktop](desktop.joyx)
 ```
